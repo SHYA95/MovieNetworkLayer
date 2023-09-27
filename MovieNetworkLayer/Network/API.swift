@@ -2,9 +2,7 @@
 //  API.swift
 //  MoyaExample
 //
-//  Created by Ömer Kolkanat on 12.05.2020.
-//  Copyright © 2020 Omer Kolkanat. All rights reserved.
-//
+
 
 import Moya
 

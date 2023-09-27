@@ -2,9 +2,6 @@
 //  SearchResponse.swift
 //  MoyaExample
 //
-//  Created by Ömer Kolkanat on 16.05.2020.
-//  Copyright © 2020 Omer Kolkanat. All rights reserved.
-//
 
 // MARK: - SearchResponse
 struct SearchResponse: Codable {
